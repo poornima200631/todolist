@@ -1,0 +1,47 @@
+body{
+    background-color:  #212121;;
+    color: aliceblue;
+    padding: 0%;
+    margin: 0%;
+   
+}
+
+
+#a{
+    margin-left: 590px;
+    font-size: 50px;
+    font-family: cursive;
+
+}
+
+.input{
+    margin-left: 50px;
+}
+
+  #b{
+    width: 290px;
+    height: 30px;
+    font-size: x-large;
+   
+    
+  }
+  
+.js{
+    font-size: xx-large;
+    margin-left: 50px;
+    padding-bottom: 10px;
+}
+
+#d{
+   margin-left: 10px;
+    font-size: xx-large;
+    
+}
+
+#img {
+    margin-left: 50%;
+    transform: translateX(-20%);
+    width: 900px;
+    margin-top: -90px; /* move up */
+  }
+  
